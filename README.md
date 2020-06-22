@@ -1,2 +1,2 @@
 # velominatibot
-Simple ( Telegram Bot API + Python + Serverless + AWS Lambda λ )
+Serverless ( Telegram Bot API + Python + AWS Lambda λ )
